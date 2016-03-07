@@ -1,4 +1,4 @@
-# Repositorio de { escribe tu usuario }
+# Repositorio de Mieynaudi
 
 Este es el repositorio que utilizarás durante el resto del curso. Tanto profesores como ayudantes tienen acceso a este. **Debes darle un buen uso y solo con fines académicos.**
 
@@ -12,7 +12,7 @@ Por favor, completa los siguientes campos:
 
 | N° Alumno | Nombre | Mail UC |
 | :-: | :-: | :-: |
-| 123456789 | Nombre Apellido | correo@uc.cl |
+| 14636964 | Matias Eynaudi | mieynaudi@uc.cl |
 
 # Sobre las entregas
 
